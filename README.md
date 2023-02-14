@@ -5,7 +5,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+    <img src="https://github.com/Anthoniraj82627/File-sharing-Bot-1/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/CodeXBotz">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
@@ -14,10 +14,10 @@
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/stargazers">
+  <a href="https://github.com/Anthoniraj82627/File-sharing-Bot-1/stargazers">
     <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
   </a>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
+  <a href="https://github.com/Anthoniraj82627/File-sharing-Bot-1/fork">
     <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
   </a>  
 </p>
@@ -30,7 +30,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 **If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
 
-**Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
+**Make sure to see [contributing.md](https://github.com/Anthoniraj82627/File-sharing-Bot-1/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
 
 
@@ -65,7 +65,11 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
+<a href="https://render.com/deploy?repo=https://github.com/Anthoniraj82627/File-Sharing-Bot">
 
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
 
 #### Deploy in your VPS
 ````bash
